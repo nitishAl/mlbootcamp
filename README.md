@@ -21,13 +21,6 @@ Download [Anaconda Installer](https://repo.continuum.io/archive/Anaconda2-4.0.0-
 $ bash /path to download file/Anaconda2-4.0.0-Linux-x86_64.sh
 ```
 
-Now install IPython and IPython Notebook.
-
-```sh
-# Install or update IPython and IPython Notebook
-$ conda install ipython-notebook
-```
-
 ### Running the Notebook
 
 ```sh
