@@ -28,9 +28,11 @@ Now install IPython and IPython Notebook.
 $ conda install ipython-notebook
 ```
 
-### Running the week2 Notebook
+### Running the Notebook
 
 ```sh
-$ git clone ml-bootcamp
-$ cd ml-bootcamp/week2
+$ git clone git@github.com:ind9/mlbootcamp.git
+$ cd mlbootcamp
+$ ipython notebook
 ```
+The above commands will open a browser tab for the notebook.
